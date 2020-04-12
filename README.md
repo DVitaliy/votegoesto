@@ -1,2 +1,0 @@
-# votegoesto
-Created with CodeSandbox
